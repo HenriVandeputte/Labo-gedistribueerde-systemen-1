@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72399a56-4253-4e0d-b3ed-f507b026d745" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/EchoClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/EchoServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/KKMultiServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/KKMultiServerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/KnockKnockClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/KnockKnockProtocol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/KnockKnockServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/Opdracht/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/Opdracht/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/Opdracht/InputThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/Opdracht/MainGUI$enterServerButtonListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/Opdracht/MainGUI$incommingMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/Opdracht/MainGUI$sendMessageButtonListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/Opdracht/MainGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/Opdracht/Protocol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/Opdracht/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoServer/out/production/EchoServer/Opdracht/ServerThread.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2FzeFzBHM8zJomeoL8ElWd5RQRt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vande/IdeaProjects/Labo-gedistribueerde-systemen-1/Lab2_RMI&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72399a56-4253-4e0d-b3ed-f507b026d745" name="Changes" comment="" />
+      <created>1665499239922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665499239922</updated>
+      <workItem from="1665499241162" duration="14000" />
+      <workItem from="1665499284657" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
